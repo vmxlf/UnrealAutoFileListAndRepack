@@ -13,6 +13,7 @@ to_list_and_create_pak.bat modfolder
 3. 모드폴더를 툴에 드래그 혹은 cmd로 실행
    <img width="1171" height="487" alt="image" src="https://github.com/user-attachments/assets/1d290f15-a906-4983-a865-50d6e1619817" />
 4. 자동으로 filelist.txt 및 pak를 생성
-   <img width="1730" height="924" alt="image" src="https://github.com/user-attachments/assets/2c150db1-9831-4f41-b106-5dc78fff40fb" />
+   <img width="1730" height="924" alt="image" src="https://github.com/user-attachments/assets/df74e778-50bc-479c-a085-4c46fba68d55" />
    <img width="1611" height="938" alt="image" src="https://github.com/user-attachments/assets/46ad188d-69fe-4c96-9547-e11f519518ec" />
-   <img width="1171" height="487" alt="image" src="https://github.com/user-attachments/assets/0b530446-e4b7-4341-a841-2c85624f3190" />
+   <img width="1171" height="487" alt="image" src="https://github.com/user-attachments/assets/7575804c-fc19-4d75-afac-7ed335e8a6de" />
+
