@@ -1,7 +1,9 @@
 # UnrealAutoFileListAndRepack
 언리얼 엔진 4 리패킹(pak) 툴
 
+```cmd
 to_list_and_create_pak.bat modfolder
+```
 
 예시) wandering sword (unreal 4.26)
 1. 언리얼엔진 설치 및 엔진폴더 열기 
